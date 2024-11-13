@@ -43,5 +43,7 @@ public class EjemploCadenas02 {
         
         System.out.printf("%s", cadenaFinal);
         
+        //el string format lo ocupamos como un acumulador de datos para
+        // asi poder minimizar procesos 
     }
 }

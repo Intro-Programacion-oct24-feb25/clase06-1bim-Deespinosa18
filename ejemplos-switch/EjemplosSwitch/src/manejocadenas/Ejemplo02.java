@@ -18,6 +18,6 @@ public class Ejemplo02 {
         //      0123456
         char letra = pais.charAt(0);
         System.out.printf("%s\n", letra);
-        
+        // utilizamos el comando pais.charAt(0); para que  ek char agarre la e, en java el co0nteo de caracteres empieza desde el 0
     }
 }
