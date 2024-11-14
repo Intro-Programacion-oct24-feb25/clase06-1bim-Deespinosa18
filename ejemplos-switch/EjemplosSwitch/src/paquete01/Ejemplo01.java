@@ -33,6 +33,8 @@ public class Ejemplo01 {
             
             case "Martes":
             case "martes":
+            case "MARTES":   
+                    
                 System.out.printf("%s", cadena.toUpperCase());
                 break;
             
@@ -42,7 +44,7 @@ public class Ejemplo01 {
                 System.out.printf("%s", cadena.toUpperCase());
                 break;
             
-            case "Domingo":
+            case "DOMINGO":
                 System.out.printf("%s, es el séptimo día "
                         + "de la semana", cadena.toUpperCase());
                 break;
